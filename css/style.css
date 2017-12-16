@@ -138,9 +138,10 @@ ul {
 }
 
 #background-1 {
-	background-image: url("../img/pens.png");
+	background-size: 20%;
+	background-image: url("../img/beach-scene.png");
 	background-repeat: no-repeat;
-	background-position: right 20px top -45px;
+	background-position: right 75px top 40px;
 }
 
 .mouse-bg {
@@ -390,6 +391,10 @@ ul {
 	line-height: 1.3em;
 }
 
+.row.second {
+	margin-top: 60px;
+}
+
 .about-text h2 {
 	font-size: 35px;
 	margin-bottom: 30px;
@@ -397,28 +402,6 @@ ul {
 
 .about-text p ins {
 	text-decoration-style: wavy;
-}
-
-.single-progress-item {
-	margin-bottom: 35px;
-	position: relative;
-}
-
-.single-progress-item p {
-	font-size: 11px;
-	text-transform: uppercase;
-	font-weight: bold;
-	letter-spacing: 0.3em;
-	margin-bottom: 0px;
-	color: #333;
-}
-
-.progress-bar-style {
-	display: block;
-	height: 4px;
-	position: relative;
-	width: 100%;
-	border-radius: 25px;
 }
 
 .bar-inner {
@@ -437,7 +420,6 @@ ul {
 	font-size: 10px;
 	letter-spacing: 0.1em;
 }
-
 
 
 /* ====================
