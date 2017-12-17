@@ -373,8 +373,6 @@ ul {
 	letter-spacing: 0.15em;
 }
 
-
-
 /* ====================
   About Section
 =======================*/
@@ -518,8 +516,6 @@ ul {
 .resume-item:last-child .resume-right:after {
 	height: 0;
 }
-
-
 
 /* ====================
   Portfolio Section
@@ -777,10 +773,6 @@ ul {
 .footer-section .social-links a.twitter {
 	background: #1AB1E5;
 }
-
-
-
-
 
 .footer-section p {
 	font-size: 14px;
